@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
-      "projectName": "DigitalInnovationOne",
-      "projectPath": "C:\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+      "projectUniqueName": "C:\\Users\\Alexssandro\\Revisao\\Revisao.csproj",
+      "projectName": "Revisao",
+      "projectPath": "C:\\Users\\Alexssandro\\Revisao\\Revisao.csproj",
       "packagesPath": "C:\\Users\\Alexssandro\\.nuget\\packages\\",
-      "outputPath": "C:\\DigitalInnovationOne\\obj\\",
+      "outputPath": "C:\\Users\\Alexssandro\\Revisao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
